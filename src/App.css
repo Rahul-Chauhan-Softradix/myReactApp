@@ -1,0 +1,109 @@
+
+.Reducer{
+  background-color: rgb(211, 186, 236);
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  border:1px solid red;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.card{
+  text-align: center;
+}
+button{
+  background-color: gray;
+  width: 100px;
+  height: 50px;
+  border: 1px solid blue;
+  border-radius: 5px;
+  font-size: medium;
+}
+
+.buttons{
+  display: flex;
+}
+
+.contacts{
+  background-color: beige;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+}
+
+.Dropdown{
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.customform{padding: 10px;
+  background-color: aqua;
+  margin-top: 50px;
+  margin-left: 400px;
+  width: 500px;
+  border-radius: 20px;
+  height: 500px;
+ 
+}
+.formerror{
+  color:red;
+  margin:0px;
+}
+
+.customform input{
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 5px;
+  height: 15px;
+  width: 350px;
+  margin: 10px 0px;
+  padding: 9px;
+
+}
+
+.forminput{
+  margin-top: 10px;
+  margin-left: 50px;
+  height: 20px;
+
+
+}
+.customform button{
+  background-color: aliceblue;
+  border: 2px solid #4CAF50; /* Green */
+  margin-top: 50px;
+  margin-left: 200px;
+  border-radius: 10px;
+}
+
+.customform button:hover {
+  background-color: #e7eb12;
+  cursor: pointer;
+}
+  
+.customform button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+}
+.header div {
+  margin: 0px 10px;
+  background-color: aliceblue;
+  
+}
+
+.formContent{
+  margin-bottom: 50pxpx;
+}
